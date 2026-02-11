@@ -280,7 +280,6 @@
 }
 .s-hedding{
     width: 925px;
-    margin-bottom: 60px;
 }
 .p3{
     text-align: center;
@@ -322,7 +321,7 @@
        font-size: 24px;
 }
 .s-card{
-   
+    margin-top: 60px;
     display: flex;
     gap: 30px;
 }
