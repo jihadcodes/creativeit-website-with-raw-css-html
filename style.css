@@ -45,6 +45,7 @@
 }
 .logo {
   margin-right: 200px;
+  cursor: pointer;
 }
 .menu {
   align-items: center;
@@ -83,6 +84,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  
+}
+.link i:hover {
+  
+  scale: 105%;
 }
 .banner {
   margin-bottom: 100px;
@@ -129,6 +135,7 @@
   font-weight: 500;
   font-size: 18px;
   line-height: 27px;
+  cursor: pointer;
   border: none;
 }
 .btn-2 {
@@ -139,6 +146,7 @@
   border: none;
   font-family: "Inter", sans-serif;
   font-weight: 500;
+  cursor: pointer;
   font-size: 18px;
   line-height: 27px;
 }
@@ -256,6 +264,7 @@
   font-weight: 500;
   font-size: 18px;
   line-height: 27px;
+  cursor: pointer;
 }
 
 .services {
@@ -281,6 +290,7 @@
   width: 466px;
   margin: 0 auto;
   display: flex;
+  cursor: pointer;
   justify-content: space-between;
   border: 1px solid#D9D9D9;
   border-radius: 37px;
@@ -295,6 +305,7 @@
   line-height: 25.9px;
   letter-spacing: 0.2px;
   font-size: 24px;
+  cursor: pointer;
   border-radius: 29px;
 }
 .btn-5 {
@@ -308,6 +319,7 @@
   line-height: 25.9px;
   letter-spacing: 0.2px;
   font-size: 24px;
+  cursor: pointer;
 }
 .s-card {
   margin-top: 60px;
@@ -360,7 +372,8 @@
   font-family: "Inter", sans-serif;
   font-weight: 500;
   font-size: 18px;
-  line-height: 27px;
+  line-height: 27px; 
+  cursor: pointer;
 }
 .feed-btn{
     text-align: center;
